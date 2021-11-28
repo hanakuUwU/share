@@ -1,3 +1,3 @@
 # share
-Rip: tạo ảnh ở bia mộ
+Rip: tạo ảnh ở bia mộ <br>
 simpcard: Just SimpCard

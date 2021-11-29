@@ -11,4 +11,4 @@ simpcard: tạo card cho mấy đứa simp <br>
 draken: Chế MEME <br>
     ecb: encodebin 1 text nào đó UwU <br>
     decodepin : decode mã pin thui uwu <br>
-
+blink: Tạo gif Blink

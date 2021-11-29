@@ -12,4 +12,5 @@ draken: Chế MEME <br>
     ecb: encodebin 1 text nào đó UwU <br>
     decodepin : decode mã pin thui uwu <br>
 blink: Tạo gif Blink <br>
-Podium : bục trao giải :D
+Podium : bục trao giải :D <br>
+rname: đổi tên theo vùng và biệt danh này lấy nguồn từ api của Lê !

@@ -8,5 +8,7 @@ simpcard: Just SimpCard <br>
 gay: Tạo Avt 7 sắc cầu vòng thôi uwu <br>
 Putin: tạo ảnh Putin <br>
 simpcard: tạo card cho mấy đứa simp <br>
-draken: Chế MEME 
+draken: Chế MEME <br>
+    ecb: encodebin 1 text nào đó UwU <br>
+    decodepin : decode mã pin thui uwu <br>
 
